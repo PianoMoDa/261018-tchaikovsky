@@ -1,0 +1,22 @@
+
+/* PianoMoDa · 작품과 연주자 정보 정비 · 2026.10.14 */
+.work-facts{display:flex;flex-wrap:wrap;gap:4px 16px;line-height:1.75;margin:10px 0 14px;font-size:13px;overflow-wrap:anywhere}
+.work-facts .duration{font-weight:700;white-space:nowrap}
+.facts-guide{font-size:12px;line-height:1.8;opacity:.85;margin:12px 4px 18px;word-break:keep-all}
+.context-paragraph+.context-paragraph{margin-top:10px}
+.context-source{display:inline-block;margin-top:10px;font-size:11px;font-weight:650;color:inherit;text-underline-offset:3px}
+.publication-tag{display:inline-block;margin:0 0 12px;padding:5px 9px;border:1px solid #9B8C68;border-radius:6px;color:#5E5235;font-size:11px;font-weight:700;letter-spacing:.025em;background:#F2EEE3}
+.artist-record{margin:12px 0 6px;display:grid;gap:9px}
+.artist-record .artist-row{font-size:13px;line-height:1.75}
+.artist-row b{display:block;font-size:11px;letter-spacing:.04em;margin-bottom:2px}
+.artist-date{font-size:10px;line-height:1.7;opacity:.8;margin:12px 0 0}
+.piece-context{font-size:13px;line-height:1.8;margin:10px 0 0}
+.piece-context b{display:block;margin-bottom:4px;font-size:10px;letter-spacing:.1em}
+.score-preview.external-score{text-decoration:none}
+.person .facts span,.duo-profiles .facts span{display:block}
+
+body,button,input,select,textarea{font-family:Pretendard,-apple-system,BlinkMacSystemFont,"Noto Sans KR",sans-serif}
+h1,h2,.piece-info h3,.person h3{font-family:Georgia,"Noto Serif KR",serif}
+.postlude-gallery figure>a,.postlude-photo>a,.postlude-grid figure>a{display:block;aspect-ratio:1/1;overflow:hidden}
+.postlude-gallery figure>a img,.postlude-photo>a img,.postlude-grid figure>a img{display:block;width:100%;height:100%;aspect-ratio:1/1;object-fit:cover}
+.postlude figure button[data-image]{display:block;width:100%;aspect-ratio:1/1;overflow:hidden}.postlude figure button[data-image] img{width:100%;height:100%;object-fit:cover}
