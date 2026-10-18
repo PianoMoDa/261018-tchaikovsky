@@ -21,5 +21,8 @@
   "poster": "poster.jpg",
   "accent": "#bca788",
   "description": "비바람이 불던 날, 갤러리에서의 1열 관람. 차이콥스키의 현악 실내악과 연주자들의 이야기, 앙코르 〈왈츠〉를 남긴 기록.",
-  "updatedAt": "2026-10-18T16:15:03+00:00"
+  "updatedAt": "2026-10-18T17:01:07+00:00",
+  "companions": [
+    "EJ Shin"
+  ]
 }

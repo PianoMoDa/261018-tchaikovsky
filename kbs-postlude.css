@@ -3,8 +3,10 @@
 .encore-original-title{font-size:13px;color:#d4cabb;margin:8px 0}
 .encore-description{font-size:14px;line-height:1.8;margin:10px 0 12px;max-width:780px}
 .encore .work-facts{color:#d4cabb;margin:12px 0}
-.pm-postlude-gallery{grid-template-columns:repeat(2,minmax(0,1fr))}
 .pm-postlude-notes p{word-break:keep-all;overflow-wrap:break-word}
-.postlude-video{width:min(100%,360px);margin:24px auto 0}
-.postlude-video video{display:block;width:100%;height:auto;aspect-ratio:9/16;object-fit:contain;background:#000;border-radius:14px}
-@media(max-width:430px){.pm-postlude-gallery{grid-template-columns:1fr}.encore h2{font-size:24px}}
+.pm-postlude-gallery{display:flex;flex-wrap:wrap;justify-content:center;gap:14px}
+.pm-postlude-gallery figure{flex:0 1 calc((100% - 28px)/3)}
+.pm-postlude-gallery .image-button{border-radius:0}
+.pm-postlude-gallery figcaption{word-break:keep-all;overflow-wrap:break-word}
+@media(max-width:760px){.pm-postlude-gallery figure{flex-basis:calc((100% - 14px)/2)}}
+@media(max-width:430px){.pm-postlude-gallery figure{flex-basis:100%}.encore h2{font-size:24px}}
