@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "brand": "PianoMoDa",
+  "visibility": "public",
+  "id": "261018-tchaikovsky",
+  "date": "2026-10-18",
+  "time": "16:00",
+  "timezone": "Asia/Seoul",
+  "title": "KBS교향악단 후원회원 음악회 · 여섯 빛깔의 낭만",
+  "subtitle": "갤러리에서 만난 현악 실내악",
+  "artists": [
+    "KBS교향악단 현악 앙상블"
+  ],
+  "composers": [
+    "Tchaikovsky 차이콥스키"
+  ],
+  "venue": "갤러리카페 더 스페이스 청담",
+  "city": "서울",
+  "stage": "postlude",
+  "attendance": "attended",
+  "poster": "poster.jpg",
+  "accent": "#bca788",
+  "description": "비바람이 불던 날, 갤러리에서의 1열 관람. 차이콥스키의 현악 실내악과 연주자들의 이야기, 앙코르 〈왈츠〉를 남긴 기록.",
+  "updatedAt": "2026-10-18T16:15:03+00:00"
+}

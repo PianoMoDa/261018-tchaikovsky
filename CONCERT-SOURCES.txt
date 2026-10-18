@@ -1,0 +1,30 @@
+PianoMoDa · 261018-tchaikovsky · 2026.10.19
+
+Performance documents and observations
+- KBS Symphony Orchestra, 2026.10.18, supporter concert "여섯 빛깔의 낭만".
+- Uploaded concert pamphlet: title/date/venue, Souvenir de Florence commentary and welcome message.
+- The pamphlet describes Souvenir de Florence as Tchaikovsky's only string sextet,
+  and stresses the six instruments' dialogue, lyricism and energy rather than a literal cityscape.
+- The encore is identified on the photographed projection: Serenade for Strings in C major,
+  Op.48, II. Valse. It is distinct from the main programme's Quartet No.1, Op.11, II. Andante cantabile.
+- Daniel Lindemann as host: attendee confirmation; co-host Seong Chae-eun retained from the invitation.
+- Rain/wind, front-row experience, gallery atmosphere, reactions to the music,
+  interviews, family/hobbies/running club and individual artistic identity: attendee's account.
+  No specific hobby or family detail is assigned to an individual musician.
+
+Historical and work references
+https://en.tchaikovsky-research.net/pages/Souvenir_de_Florence
+https://en.tchaikovsky-research.net/pages/Letter_4141
+https://en.tchaikovsky-research.net/pages/Letter_4173
+https://en.tchaikovsky-research.net/pages/Serenade_for_String_Orchestra
+https://www.laphil.com/works/string-sextet-in-d-minor-op-70-souvenir-de-florence
+https://www.carnegiehall.org/Explore/Articles/2025/10/08/Guide-to-Tchaikovskys-Greatest-Works
+
+Media preparation
+- The four displayed JPEGs are unchanged copies of attendee-supplied photos.
+- Square frames are CSS display crops; opening a photo shows its full composition.
+- The conversation photo uploaded as 17.18.41 is not included; the user selected 16.15.58 instead.
+- postlude-20261018.mp4: the supplied 2.8-second phone clip, converted from HDR HEVC
+  to SDR H.264/AAC for browser playback, retaining its sound and full duration.
+- The uploaded pamphlet images were used for commentary; no added full-page pamphlet gallery.
+- Existing reference videos, performer profiles and original invitation archive retained.
